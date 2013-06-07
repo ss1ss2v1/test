@@ -1,0 +1,12 @@
+<?php
+
+      $a=5;
+      $c=1
+      
+      for($b=$a;$b<=10;$c++){
+      
+      
+        
+        echo "hello world";
+      }
+?>
