@@ -1,7 +1,7 @@
 <?php
 
-$a="hello";
-$b="world";
+$a="hell";
+$b="worl";
 
 echo "$a.$b";
 
